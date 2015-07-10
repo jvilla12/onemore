@@ -1,0 +1,41 @@
+
+
+}
+body {
+  margin: 0;
+}
+
+.nav {
+ 
+    background-image: url(http://p1.pichost.me/i/72/1969235.jpg);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 400px;
+   text-align: center;
+
+
+  }
+
+  h1 {
+    color:black;
+    font-family:verdana;
+    font-size:300%;
+     text-align: center;
+}
+p  {
+    color:black;
+    font-family:courier;
+    font-size:160%;
+    text-align: center;
+}
+li {
+    display: inline;
+    color:black;
+}
+li a {
+  font-family:verdana;
+    font-size:150%;
+    color: black;
+
+}
